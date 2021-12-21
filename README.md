@@ -1,7 +1,8 @@
 # Proyecto-Verificacion-de-Firmas
 
 **********   MÉTODO SIN REDES NEURONALES: ********** 
-Para probar todas las imágenes de la carpeta pruebas, se tiene que descomentar
+Se debe descargar y descomprimir la carpeta "pruebas".
+Para probar todas las imágenes de la carpeta "pruebas", se tiene que descomentar
 el for que va de 0 a 9, además de igualar al variable pruebasIndex = j+1. Se
 debe también comentar el plot de las líneas 71 y 72 y descomentar la línea 74
 del comando input, para que cada vez que muestre los resultados de una carpeta, 
